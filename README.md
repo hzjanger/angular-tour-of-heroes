@@ -1,10 +1,16 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+这个项目使用的[Angular CLI](https://github.com/angular/angular-cli)版本是7.2.3，项目来源与[Angular官网上的案例](https://angular.cn/tutorial)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+使用`git clone git@github.com:hzjanger/angular-tour-of-heroes.git`克隆项目
+
+使用`npm install`下载需要的依赖
+
+使用`ng serve`运行项目
+
+在浏览器输入[http://localhost:4200/](http://localhost:4200/)查看运行结果
 
 ## Code scaffolding
 
